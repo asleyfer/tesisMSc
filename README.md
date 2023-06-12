@@ -1,5 +1,5 @@
 # tesisMSc
-Códigos, datos y anexos de trabajo final de maestría "Accesibilidad geoespacial para el análisis de cobertura urbana en el municipio de Villavicencio, Meta" 
+Códigos, datos y anexos de trabajo final de maestría "Accesibilidad geoespacial para el análisis de cobertura urbana en el municipio de Villavicencio, Meta". 
 Este trabajo final de maestría fue realizado en el programa de maestría en Ingeniería Infraestructura y Sistemas de Transporte de la
 Universidad Nacional de Colombia, Sede Manizales, Facultad de Ingeniería y Arquitectura - Manizales, Colombia, 2023.
 
