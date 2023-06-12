@@ -1,0 +1,16 @@
+/*********************************************
+ * OPL 20.1.0.0 Data
+ * Author: ASUS
+ * Creation Date: 8/06/2023 at 12:15:37 p. m.
+ *********************************************/
+
+c1 =200;
+a1 =1;
+p1=5; 	
+
+//SheetConnection sheet("distancias_salud.xlsx");
+SheetConnection sheet("distancias_bomberos.xlsx");
+
+distancia from SheetRead(sheet, "distancias");
+h from SheetRead(sheet, "demanda");
+
