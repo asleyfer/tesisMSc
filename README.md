@@ -3,7 +3,7 @@ Códigos, datos y anexos de trabajo final de maestría "Accesibilidad geoespacia
 Este trabajo final de maestría fue realizado en el programa de maestría en Ingeniería Infraestructura y Sistemas de Transporte de la
 Universidad Nacional de Colombia, Sede Manizales, Facultad de Ingeniería y Arquitectura - Manizales, Colombia, 2023.
 
-Este trabajo fue realizado por el estudiante Ing. Asley Fernando Espejo Díaz bajo la dirección de Diego Alexander Escobar García. PhD. 
+Este trabajo fue realizado por el estudiante Ing. Asley Fernando Espejo Díaz bajo la dirección del profesor Diego Alexander Escobar García. PhD. 
 
 En este repositorio se encuentran los códigos de programación utilizados en el trabajo final de maestría para:
 
